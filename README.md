@@ -29,7 +29,7 @@
 
 ### 📈 &nbsp;My stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reksikan&theme=blux&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reksikan&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reksikan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
