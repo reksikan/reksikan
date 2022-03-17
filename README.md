@@ -35,6 +35,6 @@
 
 ---
 
-### My [blog](https://github.com/reksikan):
+### 📝 &nbsp;My [blog](https://github.com/reksikan):
 - [TOP SECRET 1](https://github.com/reksikan)
 - [TOP SECRET 2](https://github.com/reksikan)
