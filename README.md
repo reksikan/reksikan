@@ -32,8 +32,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reksikan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 📝 &nbsp;My [blog](https://github.com/reksikan):
-- [TOP SECRET 1](https://github.com/reksikan)
-- [TOP SECRET 2](https://github.com/reksikan)
