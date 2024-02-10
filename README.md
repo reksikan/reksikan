@@ -5,7 +5,6 @@
 
 - 🔭 I'm backend developer
 - 🌱 But sometimes frontend too...
-- ⚡ In my free time I working on two secret projects that I'll tell you about soon.
 
 ---
 
